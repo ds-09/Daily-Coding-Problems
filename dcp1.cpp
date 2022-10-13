@@ -17,7 +17,6 @@ int main(void)
     cout << "Enter stock prices: " << endl;
     for (int i = 0; i < n; i++)
     {
-        // cout << "Stock " << i + 1 << endl;
         cin >> arr[i];
     }
     for (int i = 0; i < n; i++)
